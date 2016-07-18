@@ -1,0 +1,1943 @@
+{
+    "Targets": [{
+        "adaptation_id": "466",
+        "Impact": ["Land loss", "Water stock reduction", "Food loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Hydrological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "239",
+        "Impact": ["Land loss", "Wetland loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "505",
+        "Impact": ["Land loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Forestry"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "223",
+        "Impact": ["Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "567",
+        "Impact": ["Agricultural production loss", "Migration", "Soil moisture reduction"],
+        "Sector": ["Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "216",
+        "Impact": ["Agricultural production loss", "Land loss", "Migration"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "218",
+        "Impact": ["Agricultural production loss", "Land loss", "Migration"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "187",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "153",
+        "Impact": ["Water stock reduction"],
+        "Sector": ["Water"],
+        "Stimulus": ["Meterological drought"]
+    }, {
+        "adaptation_id": "176",
+        "Impact": ["Wetland loss", "Food loss"],
+        "Sector": ["Agriculture", "Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "134",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "7",
+        "Impact": ["Land loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "219",
+        "Impact": ["Agricultural production loss", "Land loss", "Migration", "Irrigated agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "268",
+        "Impact": ["Land loss", "Soil moisture reduction", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "221",
+        "Impact": ["Agricultural production loss", "Land loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "119",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Meterological drought"]
+    }, {
+        "adaptation_id": "224",
+        "Impact": ["Agricultural production loss", "Land loss", "Wetland loss", "Migration", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "14",
+        "Impact": ["Land loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "146",
+        "Impact": ["Agricultural production loss", "Soil moisture reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "42",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "121",
+        "Impact": ["Land loss", "Water stock reduction"],
+        "Sector": ["Water"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "450",
+        "Impact": [],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "403",
+        "Impact": ["Soil moisture reduction", "Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "99",
+        "Impact": [],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "117",
+        "Impact": ["Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Hydrological drought"]
+    }, {
+        "adaptation_id": "15",
+        "Impact": ["Land loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "448",
+        "Impact": ["Rural and urban area damages"],
+        "Sector": ["Water"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "129",
+        "Impact": ["Water stock reduction"],
+        "Sector": [],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "132",
+        "Impact": ["Agricultural production loss", "Land loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "124",
+        "Impact": ["Agricultural production loss", "Water stock reduction"],
+        "Sector": ["Forestry"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "149",
+        "Impact": ["Land loss", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "107",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "138",
+        "Impact": ["Agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "226",
+        "Impact": ["Agricultural production loss", "Land loss", "Migration", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "269",
+        "Impact": ["Land loss", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "170",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "270",
+        "Impact": ["Land loss", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "19",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "28",
+        "Impact": ["Land loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "271",
+        "Impact": ["Land loss", "Soil moisture reduction", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "105",
+        "Impact": ["Soil moisture reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Meterological drought"]
+    }, {
+        "adaptation_id": "110",
+        "Impact": ["Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Meterological drought"]
+    }, {
+        "adaptation_id": "30",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "190",
+        "Impact": ["Agricultural production loss", "Land loss", "Wetland loss", "Soil moisture reduction", "Irrigated agricultural production loss", "Water stock reduction", "Food loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Hydrological drought", "Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "689",
+        "Impact": ["Agricultural production loss", "Land loss"],
+        "Sector": ["Agriculture", "Coast", "City"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "314",
+        "Impact": ["Agricultural production loss", "Migration"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "277",
+        "Impact": ["Land loss", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "426",
+        "Impact": ["Agricultural production loss", "Land loss", "Wetland loss", "Migration", "Agricultural GDP loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "33",
+        "Impact": ["Agricultural production loss", "Land loss", "Wetland loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Drought", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "237",
+        "Impact": [],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "11",
+        "Impact": ["Land loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "106",
+        "Impact": ["Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Hydrological drought"]
+    }, {
+        "adaptation_id": "150",
+        "Impact": ["Agricultural production loss", "Land loss", "Rural and urban area damages"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "12",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "413",
+        "Impact": ["Increased forest fire frequency", "Soil moisture reduction", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "475",
+        "Impact": ["Agricultural production loss", "Land loss"],
+        "Sector": ["Agriculture", "Coast"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "317",
+        "Impact": ["Increased forest fire frequency", "Land-cover conversion", "Migration", "Soil moisture reduction", "Water stock reduction", "Food loss", "Livestock production decrease"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "313",
+        "Impact": ["Migration", "Soil moisture reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "18",
+        "Impact": ["Land loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "156",
+        "Impact": ["Soil moisture reduction", "Water stock reduction"],
+        "Sector": [],
+        "Stimulus": ["Meterological drought"]
+    }, {
+        "adaptation_id": "36",
+        "Impact": ["Agricultural production loss", "Food loss"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "545",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "10",
+        "Impact": ["Land loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "236",
+        "Impact": ["Agricultural production loss", "Land-cover conversion", "Land loss", "Wetland loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction", "Food loss", "Livestock production decrease"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "102",
+        "Impact": ["Agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "336",
+        "Impact": ["Increased forest fire frequency", "Soil moisture reduction", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "120",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Meterological drought"]
+    }, {
+        "adaptation_id": "288",
+        "Impact": ["Land loss", "Relocation", "Soil moisture reduction", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "210",
+        "Impact": ["Increased forest fire frequency", "Land-cover conversion", "Land loss", "Migration", "Water stock reduction", "Livestock production decrease"],
+        "Sector": ["Forestry"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "295",
+        "Impact": ["Land loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "476",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "427",
+        "Impact": ["Agricultural production loss", "Soil moisture reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Temperature"]
+    }, {
+        "adaptation_id": "84",
+        "Impact": ["Agricultural production loss", "Migration", "Food loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "480",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "318",
+        "Impact": ["Agricultural production loss", "Land loss", "Migration", "Soil moisture reduction", "Irrigated agricultural production loss", "Food loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Temperature"]
+    }, {
+        "adaptation_id": "188",
+        "Impact": ["Agricultural GDP loss", "Soil moisture reduction", "Irrigated agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "86",
+        "Impact": ["Rural and urban area damages", "Migration"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "23",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Coast", "Forestry", "Water"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "20",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "21",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Coast", "Water"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "326",
+        "Impact": ["Agricultural production loss", "Land loss", "Rural and urban area damages", "Wetland loss", "Migration"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Drought", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "407",
+        "Impact": ["Soil moisture reduction", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "81",
+        "Impact": ["Agricultural production loss", "Migration", "Food loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "85",
+        "Impact": ["Agricultural production loss", "Migration", "Food loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "46",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "311",
+        "Impact": ["Soil moisture reduction", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "303",
+        "Impact": ["Land loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Water"],
+        "Stimulus": ["Drought", "Hydrological drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "688",
+        "Impact": ["Soil moisture reduction", "Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "130",
+        "Impact": ["Agricultural production loss", "Rural and urban area damages", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "161",
+        "Impact": ["Agricultural production loss", "Land loss", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "429",
+        "Impact": ["Agricultural production loss", "Land loss", "Wetland loss", "Relocation", "Food loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "31",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "127",
+        "Impact": ["Agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Temperature"]
+    }, {
+        "adaptation_id": "273",
+        "Impact": ["Land loss"],
+        "Sector": ["Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "687",
+        "Impact": [],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "683",
+        "Impact": ["Land loss", "Wetland loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "286",
+        "Impact": ["Land loss", "Wetland loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "712",
+        "Impact": ["Soil moisture reduction", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Hydrological drought", "Meterological drought"]
+    }, {
+        "adaptation_id": "38",
+        "Impact": ["Soil moisture reduction", "Irrigated agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "305",
+        "Impact": ["Land loss", "Wetland loss", "Soil moisture reduction", "Irrigated agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Hydrological drought", "Precipitation"]
+    }, {
+        "adaptation_id": "186",
+        "Impact": ["Land loss", "Water stock reduction"],
+        "Sector": ["Water"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "542",
+        "Impact": ["Increased forest fire frequency", "Soil moisture reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Temperature"]
+    }, {
+        "adaptation_id": "27",
+        "Impact": ["Land loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "159",
+        "Impact": ["Agricultural production loss", "Land loss", "Other impacts"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "178",
+        "Impact": ["Wetland loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "22",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Coast", "Forestry"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "586",
+        "Impact": ["Increased forest fire frequency", "Land loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Drought", "Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "147",
+        "Impact": ["Wetland loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "158",
+        "Impact": ["Soil moisture reduction", "Water stock reduction"],
+        "Sector": [],
+        "Stimulus": ["Meterological drought"]
+    }, {
+        "adaptation_id": "238",
+        "Impact": ["Agricultural production loss", "Land-cover conversion", "Other impacts", "Food loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "251",
+        "Impact": ["Increased forest fire frequency"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "298",
+        "Impact": ["Rural and urban area damages"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Drought", "Hydrological drought", "Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "304",
+        "Impact": ["Land loss", "Wetland loss", "Soil moisture reduction", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "191",
+        "Impact": ["Irrigated agricultural production loss", "Wetland loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "114",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "261",
+        "Impact": [],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "272",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "301",
+        "Impact": ["Land loss", "Rural and urban area damages", "Other impacts"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "296",
+        "Impact": ["Land loss", "Water stock reduction"],
+        "Sector": ["Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "228",
+        "Impact": ["Agricultural production loss", "Land loss", "Migration"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "199",
+        "Impact": ["Land loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "203",
+        "Impact": ["Land-cover conversion", "Land loss"],
+        "Sector": ["Forestry"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "338",
+        "Impact": ["Increased forest fire frequency", "Land loss", "Wetland loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction", "Food loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "309",
+        "Impact": ["Rural and urban area damages", "Other impacts"],
+        "Sector": ["Water"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "299",
+        "Impact": ["Land loss", "Rural and urban area damages", "Other impacts"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "80",
+        "Impact": ["Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "730",
+        "Impact": ["Land loss", "Land loss", "Agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "6",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Agriculture", "Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "258",
+        "Impact": ["Land loss", "Soil moisture reduction", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "259",
+        "Impact": ["Land loss", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "563",
+        "Impact": ["Agricultural production loss", "Land-cover conversion", "Land loss", "Migration", "Agricultural GDP loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Urban water supply decrease", "Irrigated agricultural production loss", "Water stock reduction", "Food loss", "Livestock production decrease"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "267",
+        "Impact": ["Rainfed agricultural production loss", "Land loss", "Soil moisture reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "562",
+        "Impact": ["Agricultural production loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "556",
+        "Impact": ["Land loss", "Rural and urban area damages", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "583",
+        "Impact": ["Increased forest fire frequency", "Soil moisture reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Temperature", "Meterological drought", "Precipitation"]
+    }, {
+        "adaptation_id": "585",
+        "Impact": ["Increased forest fire frequency", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "83",
+        "Impact": ["Agricultural production loss", "Migration", "Food loss"],
+        "Sector": ["Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "44",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "561",
+        "Impact": ["Increased forest fire frequency", "Migration", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction", "Food loss"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "82",
+        "Impact": ["Agricultural production loss", "Migration", "Food loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "227",
+        "Impact": ["Agricultural production loss", "Land loss", "Migration", "Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "197",
+        "Impact": ["Agricultural production loss", "Land loss", "Irrigated agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "713",
+        "Impact": ["Increased forest fire frequency", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Meterological drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "17",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "294",
+        "Impact": ["Land loss"],
+        "Sector": ["Water"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "731",
+        "Impact": ["Water stock reduction", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Hydrological drought", "Precipitation"]
+    }, {
+        "adaptation_id": "732",
+        "Impact": ["Increased forest fire frequency", "Rainfed agricultural production loss", "Land loss", "Land loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "168",
+        "Impact": ["Soil moisture reduction"],
+        "Sector": [],
+        "Stimulus": ["Meterological drought", "Temperature"]
+    }, {
+        "adaptation_id": "339",
+        "Impact": ["Increased forest fire frequency", "Land loss", "Wetland loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction", "Food loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "293",
+        "Impact": ["Soil moisture reduction", "Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "560",
+        "Impact": ["Agricultural production loss", "Soil moisture reduction", "Water stock reduction", "Food loss"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "344",
+        "Impact": ["Increased forest fire frequency", "Soil moisture reduction", "Water stock reduction"],
+        "Sector": ["Water", "Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "345",
+        "Impact": ["Increased forest fire frequency", "Soil moisture reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Meterological drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "327",
+        "Impact": ["Land loss", "Food loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "557",
+        "Impact": ["Agricultural production loss", "Migration", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction", "Food loss", "Livestock production decrease"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "439",
+        "Impact": ["Increased forest fire frequency"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "315",
+        "Impact": ["Agricultural production loss", "Migration"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "194",
+        "Impact": ["Land loss", "Irrigated agricultural production loss", "Water stock reduction"],
+        "Sector": ["Forestry"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "274",
+        "Impact": ["Land loss", "Soil moisture reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Temperature"]
+    }, {
+        "adaptation_id": "409",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "275",
+        "Impact": ["Land loss", "Soil moisture reduction"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "440",
+        "Impact": ["Agricultural production loss", "Migration"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "290",
+        "Impact": ["Rural and urban area damages", "Other impacts", "Urban water supply decrease"],
+        "Sector": ["Water"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "720",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Drought", "Meterological drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "220",
+        "Impact": ["Agricultural production loss", "Soil moisture reduction", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "250",
+        "Impact": ["Soil moisture reduction", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "278",
+        "Impact": ["Land loss", "Wetland loss", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "343",
+        "Impact": ["Increased forest fire frequency", "Soil moisture reduction", "Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "279",
+        "Impact": ["Land loss", "Wetland loss", "Soil moisture reduction", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "248",
+        "Impact": ["Land loss", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "723",
+        "Impact": ["Soil moisture reduction", "Increased forest fire frequency"],
+        "Sector": ["Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "283",
+        "Impact": ["Land loss"],
+        "Sector": ["Water"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "711",
+        "Impact": ["Increased forest fire frequency", "Land loss", "Wetland loss", "Soil moisture reduction", "Water stock reduction", "Food loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "558",
+        "Impact": ["Agricultural production loss", "Land-cover conversion", "Migration", "Soil moisture reduction", "Rainfed agricultural production loss", "Food loss", "Livestock production decrease"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "141",
+        "Impact": ["Agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "423",
+        "Impact": ["Urban water supply decrease"],
+        "Sector": ["Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "332",
+        "Impact": ["Water stock reduction"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "334",
+        "Impact": ["Increased forest fire frequency", "Soil moisture reduction", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Temperature"]
+    }, {
+        "adaptation_id": "292",
+        "Impact": ["Relocation", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "193",
+        "Impact": ["Land-cover conversion", "Livestock production decrease"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "104",
+        "Impact": ["Water stock reduction"],
+        "Sector": ["Water"],
+        "Stimulus": ["Hydrological drought"]
+    }, {
+        "adaptation_id": "559",
+        "Impact": ["Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "285",
+        "Impact": ["Water stock reduction"],
+        "Sector": ["Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "289",
+        "Impact": ["Increased forest fire frequency", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "284",
+        "Impact": ["Land loss", "Wetland loss", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture", "Coast"],
+        "Stimulus": ["Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "547",
+        "Impact": ["Agricultural production loss", "Land loss", "Wetland loss", "Food loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "208",
+        "Impact": ["Land loss", "Water stock reduction"],
+        "Sector": ["Forestry"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "192",
+        "Impact": ["Land loss", "Water stock reduction", "Livestock production decrease", "Agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "198",
+        "Impact": ["Agricultural production loss", "Land loss", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "144",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Drought", "Temperature"]
+    }, {
+        "adaptation_id": "174",
+        "Impact": ["Land loss"],
+        "Sector": ["Forestry"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "217",
+        "Impact": ["Agricultural production loss", "Land loss", "Migration", "Irrigated agricultural production loss"],
+        "Sector": ["Agriculture", "Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "484",
+        "Impact": ["Increased forest fire frequency", "Land loss", "Rainfed agricultural production loss", "Food loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "40",
+        "Impact": ["Agricultural production loss", "Food loss"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "214",
+        "Impact": ["Soil moisture reduction", "Irrigated agricultural production loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "215",
+        "Impact": ["Soil moisture reduction", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "213",
+        "Impact": ["Irrigated agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "297",
+        "Impact": ["Agricultural production loss", "Increased forest fire frequency", "Land-cover conversion", "Land loss", "Rural and urban area damages", "Other impacts", "Wetland loss", "Migration", "Relocation", "Agricultural GDP loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Urban water supply decrease", "Irrigated agricultural production loss", "Water stock reduction", "Food loss", "Livestock production decrease"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Drought", "Hydrological drought", "Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "291",
+        "Impact": ["Land-cover conversion", "Wetland loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "302",
+        "Impact": ["Land loss", "Wetland loss", "Soil moisture reduction", "Water stock reduction"],
+        "Sector": ["Water"],
+        "Stimulus": ["Hydrological drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "310",
+        "Impact": ["Soil moisture reduction", "Water stock reduction"],
+        "Sector": ["Water"],
+        "Stimulus": ["Drought", "Hydrological drought", "Meterological drought"]
+    }, {
+        "adaptation_id": "307",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture", "Coast"],
+        "Stimulus": ["Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "306",
+        "Impact": ["Increased forest fire frequency", "Land loss", "Wetland loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction", "Food loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Hydrological drought", "Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "479",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "254",
+        "Impact": ["Land loss", "Soil moisture reduction", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "41",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "181",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "148",
+        "Impact": ["Other impacts", "Water stock reduction"],
+        "Sector": [],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "494",
+        "Impact": ["Agricultural production loss", "Soil moisture reduction", "Water stock reduction", "Food loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "29",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "145",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "255",
+        "Impact": ["Land loss", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "257",
+        "Impact": ["Land loss", "Soil moisture reduction", "Rainfed agricultural production loss"],
+        "Sector": ["Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "25",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "123",
+        "Impact": ["Rural and urban area damages"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "37",
+        "Impact": ["Agricultural production loss", "Food loss"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "16",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "39",
+        "Impact": ["Agricultural production loss", "Food loss"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "341",
+        "Impact": ["Increased forest fire frequency", "Land loss", "Wetland loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction", "Food loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "513",
+        "Impact": ["Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "436",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "419",
+        "Impact": ["Agricultural production loss", "Migration"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "412",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Drought", "Temperature"]
+    }, {
+        "adaptation_id": "447",
+        "Impact": ["Increased forest fire frequency", "Soil moisture reduction", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "135",
+        "Impact": ["Land loss", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "430",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "122",
+        "Impact": ["Water stock reduction"],
+        "Sector": ["Water"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "405",
+        "Impact": ["Agricultural production loss", "Migration", "Food loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "406",
+        "Impact": ["Irrigated agricultural production loss"],
+        "Sector": ["Forestry"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "431",
+        "Impact": ["Agricultural production loss", "Land loss", "Wetland loss", "Relocation", "Food loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "411",
+        "Impact": ["Agricultural production loss", "Migration", "Relocation", "Agricultural GDP loss", "Soil moisture reduction", "Irrigated agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Temperature"]
+    }, {
+        "adaptation_id": "418",
+        "Impact": ["Agricultural production loss", "Migration"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "420",
+        "Impact": ["Agricultural production loss", "Soil moisture reduction"],
+        "Sector": ["Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "421",
+        "Impact": ["Urban water supply decrease"],
+        "Sector": ["Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "424",
+        "Impact": ["Agricultural production loss", "Migration", "Agricultural GDP loss", "Food loss", "Livestock production decrease"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "449",
+        "Impact": ["Agricultural production loss", "Irrigated agricultural production loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "455",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "456",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "458",
+        "Impact": ["Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "391",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Coast", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "416",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Drought", "Temperature"]
+    }, {
+        "adaptation_id": "435",
+        "Impact": ["Other impacts", "Irrigated agricultural production loss"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Hydrological drought", "Precipitation"]
+    }, {
+        "adaptation_id": "417",
+        "Impact": ["Agricultural production loss", "Migration"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Temperature"]
+    }, {
+        "adaptation_id": "477",
+        "Impact": ["Agricultural production loss", "Land loss", "Wetland loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "350",
+        "Impact": ["Land loss"],
+        "Sector": ["Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "349",
+        "Impact": ["Land loss"],
+        "Sector": ["Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "348",
+        "Impact": ["Increased forest fire frequency", "Soil moisture reduction", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Meterological drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "347",
+        "Impact": ["Increased forest fire frequency", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Hydrological drought", "Meterological drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "346",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "340",
+        "Impact": ["Increased forest fire frequency", "Land loss", "Wetland loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction", "Food loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "331",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "100",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Coast", "Water"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "351",
+        "Impact": ["Wetland loss", "Migration"],
+        "Sector": ["Water"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "352",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "353",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "354",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "357",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "358",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "359",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "360",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "361",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "362",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "363",
+        "Impact": ["Land loss"],
+        "Sector": [],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "543",
+        "Impact": ["Agricultural production loss", "Land loss", "Food loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "365",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "366",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "367",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "368",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "370",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Agriculture", "Coast"],
+        "Stimulus": ["Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "371",
+        "Impact": ["Land loss"],
+        "Sector": [],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "373",
+        "Impact": ["Increased forest fire frequency", "Land loss", "Wetland loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction", "Food loss"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Hydrological drought", "Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "374",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "375",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "376",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "377",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "378",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "453",
+        "Impact": ["Agricultural production loss", "Land loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "382",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "383",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "385",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Drought", "Hydrological drought", "Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "136",
+        "Impact": ["Agricultural production loss", "Irrigated agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Temperature"]
+    }, {
+        "adaptation_id": "425",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "386",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Drought", "Hydrological drought", "Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "387",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Forestry"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "388",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Drought", "Hydrological drought", "Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "389",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "390",
+        "Impact": ["Wetland loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "329",
+        "Impact": ["Soil moisture reduction", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture", "Coast", "Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "392",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Drought", "Hydrological drought", "Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "589",
+        "Impact": ["Soil moisture reduction"],
+        "Sector": ["City"],
+        "Stimulus": ["Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "474",
+        "Impact": ["Increased forest fire frequency"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "402",
+        "Impact": ["Agricultural production loss", "Land loss", "Wetland loss", "Food loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "395",
+        "Impact": [],
+        "Sector": ["Coast"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "397",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Drought", "Hydrological drought", "Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "398",
+        "Impact": [],
+        "Sector": ["Agriculture", "Coast"],
+        "Stimulus": ["Drought", "Hydrological drought", "Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "415",
+        "Impact": ["Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "422",
+        "Impact": ["Agricultural production loss", "Migration", "Soil moisture reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "325",
+        "Impact": ["Increased forest fire frequency", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Hydrological drought", "Meterological drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "437",
+        "Impact": ["Agricultural production loss", "Rainfed agricultural production loss", "Food loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "133",
+        "Impact": ["Land loss", "Water stock reduction"],
+        "Sector": ["Forestry"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "590",
+        "Impact": ["Soil moisture reduction"],
+        "Sector": ["City"],
+        "Stimulus": ["Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "276",
+        "Impact": ["Land loss", "Soil moisture reduction", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "591",
+        "Impact": ["Soil moisture reduction"],
+        "Sector": ["City"],
+        "Stimulus": ["Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "459",
+        "Impact": ["Land loss", "Food loss"],
+        "Sector": ["Agriculture", "Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "460",
+        "Impact": ["Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "438",
+        "Impact": [],
+        "Sector": [],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "140",
+        "Impact": ["Agricultural production loss", "Irrigated agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "139",
+        "Impact": ["Agricultural production loss", "Irrigated agricultural production loss", "Water stock reduction", "Food loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "154",
+        "Impact": ["Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Meterological drought"]
+    }, {
+        "adaptation_id": "457",
+        "Impact": [],
+        "Sector": ["Coast"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "233",
+        "Impact": ["Rural and urban area damages", "Other impacts", "Wetland loss", "Urban water supply decrease"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "337",
+        "Impact": [],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "404",
+        "Impact": [],
+        "Sector": ["Coast"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "444",
+        "Impact": ["Agricultural production loss", "Migration"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "442",
+        "Impact": ["Agricultural production loss", "Land loss", "Wetland loss"],
+        "Sector": ["Coast", "Forestry", "Water"],
+        "Stimulus": ["Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "400",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "35",
+        "Impact": ["Soil moisture reduction", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "509",
+        "Impact": ["Agricultural production loss", "Land-cover conversion", "Soil moisture reduction", "Water stock reduction", "Food loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "394",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "461",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "462",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "464",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "534",
+        "Impact": ["Land loss", "Agricultural GDP loss", "Urban water supply decrease"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "478",
+        "Impact": ["Land loss", "Wetland loss", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "454",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Coast", "Forestry"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "531",
+        "Impact": ["Agricultural production loss", "Migration", "Soil moisture reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "544",
+        "Impact": ["Increased forest fire frequency"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "470",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "535",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Forestry"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "524",
+        "Impact": ["Agricultural production loss", "Rural and urban area damages", "Wetland loss", "Migration"],
+        "Sector": ["Water"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "472",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "496",
+        "Impact": ["Increased forest fire frequency", "Land-cover conversion", "Migration", "Soil moisture reduction", "Water stock reduction", "Food loss"],
+        "Sector": ["Forestry", "Water"],
+        "Stimulus": ["Precipitation"]
+    }, {
+        "adaptation_id": "264",
+        "Impact": ["Land loss", "Soil moisture reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "515",
+        "Impact": ["Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "512",
+        "Impact": ["Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "263",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Temperature"]
+    }, {
+        "adaptation_id": "493",
+        "Impact": ["Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "532",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "446",
+        "Impact": ["Agricultural production loss", "Increased forest fire frequency", "Land-cover conversion", "Land loss", "Rural and urban area damages", "Wetland loss", "Migration", "Relocation", "Agricultural GDP loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Urban water supply decrease", "Irrigated agricultural production loss", "Water stock reduction", "Food loss", "Livestock production decrease"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "265",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "252",
+        "Impact": ["Increased forest fire frequency", "Land loss", "Wetland loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction", "Food loss"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "498",
+        "Impact": ["Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "502",
+        "Impact": ["Agricultural production loss", "Migration", "Soil moisture reduction", "Water stock reduction", "Food loss"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "733",
+        "Impact": ["Increased forest fire frequency", "Land loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry", "Water", "City"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "734",
+        "Impact": ["Soil moisture reduction", "Soil moisture reduction", "Rainfed agricultural production loss", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Meterological drought", "Precipitation"]
+    }, {
+        "adaptation_id": "473",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "266",
+        "Impact": ["Land loss"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "517",
+        "Impact": ["Increased forest fire frequency", "Soil moisture reduction", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "508",
+        "Impact": ["Soil moisture reduction", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Meterological drought", "Precipitation"]
+    }, {
+        "adaptation_id": "519",
+        "Impact": ["Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "253",
+        "Impact": ["Land loss", "Soil moisture reduction", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Temperature"]
+    }, {
+        "adaptation_id": "520",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "469",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["Coast", "Forestry"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "471",
+        "Impact": ["Soil moisture reduction", "Rainfed agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Meterological drought"]
+    }, {
+        "adaptation_id": "592",
+        "Impact": ["Soil moisture reduction"],
+        "Sector": ["City"],
+        "Stimulus": ["Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "593",
+        "Impact": ["Soil moisture reduction"],
+        "Sector": ["City"],
+        "Stimulus": ["Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "594",
+        "Impact": ["Soil moisture reduction"],
+        "Sector": ["City"],
+        "Stimulus": ["Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "595",
+        "Impact": ["Soil moisture reduction"],
+        "Sector": ["City"],
+        "Stimulus": ["Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "596",
+        "Impact": ["Soil moisture reduction"],
+        "Sector": ["City"],
+        "Stimulus": ["Meterological drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "743",
+        "Impact": ["Water stock reduction", "Increased forest fire frequency", "Rainfed agricultural production loss", "Land loss", "Land loss", "Land loss"],
+        "Sector": ["City", "Coast"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "744",
+        "Impact": ["Land loss"],
+        "Sector": [],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "747",
+        "Impact": ["Increased forest fire frequency", "Irrigated agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry"],
+        "Stimulus": ["Hydrological drought"]
+    }, {
+        "adaptation_id": "118",
+        "Impact": ["Agricultural production loss", "Rural and urban area damages"],
+        "Sector": ["Water"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "160",
+        "Impact": ["Land loss", "Other impacts"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "597",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["City"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "598",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["City"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "514",
+        "Impact": ["Land loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Coast", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise", "Temperature"]
+    }, {
+        "adaptation_id": "518",
+        "Impact": ["Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "599",
+        "Impact": ["Land loss", "Wetland loss"],
+        "Sector": ["City"],
+        "Stimulus": ["Sea-Level rise"]
+    }, {
+        "adaptation_id": "600",
+        "Impact": ["Increased forest fire frequency", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction", "Food loss"],
+        "Sector": ["City"],
+        "Stimulus": ["Drought", "Hydrological drought", "Meterological drought"]
+    }, {
+        "adaptation_id": "499",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "511",
+        "Impact": ["Land loss", "Wetland loss", "Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Forestry"],
+        "Stimulus": ["Drought", "Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "328",
+        "Impact": ["Agricultural production loss", "Migration", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "162",
+        "Impact": ["Agricultural production loss", "Land loss", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "108",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "169",
+        "Impact": ["Land loss"],
+        "Sector": ["Forestry"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "727",
+        "Impact": ["Soil moisture reduction", "Water stock reduction"],
+        "Sector": ["Agriculture", "Water", "City"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "116",
+        "Impact": ["Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "152",
+        "Impact": ["Agricultural production loss", "Land loss"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "172",
+        "Impact": ["Agricultural production loss", "Other impacts"],
+        "Sector": ["Agriculture", "Water"],
+        "Stimulus": ["Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "151",
+        "Impact": ["Agricultural production loss", "Water stock reduction", "Food loss"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "171",
+        "Impact": ["Agricultural production loss", "Land loss", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Temperature"]
+    }, {
+        "adaptation_id": "566",
+        "Impact": ["Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Water"],
+        "Stimulus": ["Drought", "Precipitation"]
+    }, {
+        "adaptation_id": "504",
+        "Impact": ["Soil moisture reduction", "Rainfed agricultural production loss", "Water stock reduction"],
+        "Sector": ["Agriculture", "Forestry", "Water"],
+        "Stimulus": ["Drought", "Precipitation", "Temperature"]
+    }, {
+        "adaptation_id": "125",
+        "Impact": ["Agricultural production loss", "Land loss", "Rural and urban area damages", "Water stock reduction"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought", "Temperature"]
+    }, {
+        "adaptation_id": "43",
+        "Impact": ["Agricultural production loss"],
+        "Sector": ["Agriculture"],
+        "Stimulus": ["Drought"]
+    }, {
+        "adaptation_id": "526",
+        "Impact": ["Land loss", "Wetland loss", "Food loss"],
+        "Sector": ["Coast"],
+        "Stimulus": ["Precipitation", "Sea-Level rise"]
+    }, {
+        "adaptation_id": "548",
+        "Impact": ["Wetland loss"],
+        "Sector": ["Water"],
+        "Stimulus": ["Sea-Level rise"]
+    }]
+}

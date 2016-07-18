@@ -1,0 +1,75 @@
+path {
+    stroke: #717171;
+    stroke-width: 0.1px;
+    fill: #4C4C4C;
+    opacity: 0.5;
+}
+body {
+    margin: 0px;
+    background-color: black;
+    opacity: 0.9;
+    font-family: "Circular Std";
+    color: #464C4C;
+}
+.Impacts, .Sectors, .mapMaster, .Stimulus {
+    display: inline;
+    margin: 0px;
+}
+.Impacts g, .Sectors g, .Stimulus g {
+    opacity: 0.5;
+}
+#SVGvis {
+  border: 2px;
+
+border-color: white;
+
+  background-color: black;
+  background-size: 5px 5px;
+  background-image: linear-gradient(to right, #141414 1px, transparent 1px), linear-gradient(to bottom, #141414 1px, transparent 1px);
+}
+#Imacts #Sectors #Stimulus {
+}
+.selected {
+    opacity: 1 !important;
+    transition: all 0.5s ease;
+}
+.hidden {
+    transition: all 0.5s ease;
+    opacity: 0 !important;
+}
+.selectedSideBar {
+    transition: all 0.5s ease;
+    opacity: 1 !important;
+}
+.mapMaster{
+
+}
+h1, h2, p, h4, footer{
+  color: white;
+  opacity: 0.6;
+}
+p:hover{
+  opacity: 1;
+
+}
+.image{
+  display: block;
+  margin-left: auto;
+   margin-right: auto;
+   padding-bottom: 200px;
+   padding-top: 50px;
+}
+
+.xl{
+  width: 100%;
+  text-align: center;
+}
+.s{
+  padding-left: 30px;
+  width: 50%;
+}
+.footer{
+  padding-top: 50px;
+  width: 100%;
+  text-align: center;
+}
