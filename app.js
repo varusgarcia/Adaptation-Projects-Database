@@ -47,8 +47,8 @@ var sideBarWidth = browserWidth * 0.1,
     bottomBarHeight = sideBarWidth,
     bottomBarWidth = browserWidth;
 
-var width = browserWidth - 2 * sideBarWidth,
-    height = browserHeight - bottomBarHeight;
+var width = browserWidth,
+    height = browserHeight;
 
 
 var impactLength = 0;
@@ -61,7 +61,7 @@ var stimulusLength = 0;
 var projection = d3.geo.mercator()
     .center([0, 50])
     .scale(100)
-    .rotate([30, 0]);
+    .rotate([0, 0]);
 
 var path = d3.geo.path()
     .projection(projection);
@@ -75,7 +75,7 @@ var ImpactsSvg = d3.select(".Impacts").append("svg")
 
 var svg = d3.select(".mapMaster").append("svg")
     .attr("id", "SVGvis")
-    .attr("width", width - 8)
+    .attr("width", width)
     .attr("height", height);
 
 var StimulusSvg = d3.select(".Stimulus").append("svg")
@@ -118,16 +118,16 @@ ImpactDomain.forEach(function(e, i) {
 
     ImpactG.append("rect")
         .data(e)
-        .attr("x", 0)
-        .attr("y", 0)
-        .attr("width", 20)
-        .attr("height", 20)
+        .attr("x", 10)
+        .attr("y", -20)
+        .attr("width", 3)
+        .attr("height", 30)
         .style("fill", function(d) {
             return impactScale(i);
         });
 
     ImpactG.append("text")
-        .attr("x", 0)
+        .attr("x", 20)
         .attr("y", -10)
         .text(e)
         .attr("fill", "white")
@@ -164,15 +164,15 @@ StimulusDomain.forEach(function(e, i) {
         .data(e)
         .attr("x", 0)
         .attr("y", 0)
-        .attr("width", iconDim)
-        .attr("height", iconDim)
+        .attr("width", 3)
+        .attr("height", 30)
         .style("fill", function(d) {
             return stimulusScale(i);
         });
 
     StimulusG.append("text")
-        .attr("x", 0)
-        .attr("y", -10)
+        .attr("x", -30)
+        .attr("y", 10)
         .text(e)
         .attr("font-size", "11px")
         .attr("fill", "white")
@@ -208,10 +208,10 @@ SectorDomain.forEach(function(e, i) {
 
     SectorG.append("rect")
         .data(e)
-        .attr("x", 0)
-        .attr("y", 0)
-        .attr("width", 20)
-        .attr("height", 20)
+        .attr("x", -20)
+        .attr("y", 5)
+        .attr("width", 30)
+        .attr("height", 3)
         .style("fill", function(d) {
             return sectorScale(i);
         })
@@ -223,7 +223,7 @@ SectorDomain.forEach(function(e, i) {
         .text(e)
         .attr("fill", "white")
         .attr("font-size", "11px")
-        .attr("transform", "translate(" + -40+ "," +20+ ") rotate(-90) ");
+        .attr("transform", "translate(" + -40+ "," +-5+ ") rotate(-90) ");
 })
 
 
@@ -309,7 +309,7 @@ function makeLayout(error, targetsData, adaptationsData) {
                 .attr("x", function(d) {
                     return ((iconDim / 2) / sectorLength) * i + (iconDim / 3.3);
                 })
-                .attr("y", iconDim * 0.6)
+                .attr("y", iconDim * 0.4)
                 .attr("width", function(d) {
                     return ((iconDim / 2) / sectorLength)
                 })
@@ -341,7 +341,7 @@ function makeLayout(error, targetsData, adaptationsData) {
                 .style("fill", function(d) {
                     return stimulusScale(e.Stimulus[i]);
                 })
-                .attr("transform", "translate(" + ((iconDim / 2) * -1) + "," + ((iconDim / 2) * -1) + ")");
+                .attr("transform", "translate(" + ((iconDim / 2) * -1) + "," + (((iconDim ) / 2) * -1) + ")");
         }
 
         iconG.append("rect")
@@ -371,7 +371,7 @@ function makeLayout(error, targetsData, adaptationsData) {
             .attr("y",function(d) {
                 return ((d3.selectAll("." + e.replace(/ /g, '-')+ ":not(.hidden)").size() / 4) * -1)-5
             })
-            .attr("width", iconDim)
+            .attr("width", iconDim/3)
             .attr("height", function(d) {
                 return d3.selectAll("." + e.replace(/ /g, '-')+ ":not(.hidden)").size() / 4
             })
@@ -390,11 +390,11 @@ function makeLayout(error, targetsData, adaptationsData) {
                 return ((d3.selectAll("." + e.replace(/ /g, '-')+ ":not(.hidden)").size() / 4) * -1)-5
             })
             .attr("y", 0)
-            .attr("height", iconDim)
+            .attr("height", iconDim/3)
             .attr("width", function(d) {
                 return (d3.selectAll("." + e.replace(/ /g, '-')+ ":not(.hidden)").size() / 4)
             })
-            .attr("transform", "translate(" + 0 + "," + 0 + ")")
+            .attr("transform", "translate(" + -5 + "," + 20 + ")")
             .style("fill", function(d) {
 
                 return stimulusScale(e);
@@ -408,7 +408,7 @@ function makeLayout(error, targetsData, adaptationsData) {
             .append("rect")
             .attr("x", 5)
             .attr("y", 0)
-            .attr("height", iconDim )
+            .attr("height", iconDim/3 )
             .attr("width", function(d) {
                 return d3.selectAll("." + e.replace(/ /g, '-')+ ":not(.hidden)").size() / 4
             })

@@ -14,8 +14,23 @@ body {
 .Impacts, .Sectors, .mapMaster, .Stimulus {
     display: inline;
     margin: 0px;
+    position: relative;
+}
+
+.Impacts, .Sectors, .Stimulus {
+background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+.Stimulus {
+  float: right;
+}
+
+.Impacts, .Sectors{
+  float: left;
 }
 .Impacts g, .Sectors g, .Stimulus g {
+
     opacity: 0.5;
 }
 #SVGvis {
@@ -28,6 +43,13 @@ border-color: white;
   background-image: linear-gradient(to right, #141414 1px, transparent 1px), linear-gradient(to bottom, #141414 1px, transparent 1px);
 }
 #Imacts #Sectors #Stimulus {
+}
+
+g:not(.selected){
+  transition: all 0.5s ease;
+}
+g:not(.hidden){
+  transition: all 0.5s ease;
 }
 .selected {
     opacity: 1 !important;
@@ -72,4 +94,8 @@ p:hover{
   padding-top: 50px;
   width: 100%;
   text-align: center;
+}
+
+a {
+  color: grey;
 }
