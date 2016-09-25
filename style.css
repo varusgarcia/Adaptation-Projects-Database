@@ -4,11 +4,16 @@ path {
     fill: #4C4C4C;
     opacity: 0.5;
 }
+h4 {
+  font-weight: normal;
+  padding-left: 20%;
+  padding-right: 20%;
+}
 body {
     margin: 0px;
     background-color: black;
     opacity: 0.9;
-    font-family: "Circular Std";
+    font-family: "arial";
     color: #464C4C;
 }
 .Impacts, .Sectors, .mapMaster, .Stimulus {
